@@ -104,6 +104,4 @@ python test.py --image_path data/test_image.jpg
 
 ## Acknowledgments
 
-**Deep Learning Project by [jubins](https://github.com/jubins/DeepLearning-Food-Image-Recognition-And-Calorie-Estimation)**
-
 **Contributors and open-source community**
