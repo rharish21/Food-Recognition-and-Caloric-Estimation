@@ -35,7 +35,7 @@ This project uses deep learning to recognize food items from images and estimate
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/DeepLearning-Food-Image-Recognition-And-Calorie-Estimation
+git clone https://github.com/rharish21/Food-Recognition-and-Caloric-Estimation.git
 ```
 
 2. Navigate to the project directory:
