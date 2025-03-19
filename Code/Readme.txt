@@ -1,4 +1,3 @@
-@jubins
 Stpes to run an Image Classifier on Docker Using Tensorflow:
 
 1. Install Docker
